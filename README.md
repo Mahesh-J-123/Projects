@@ -1,6 +1,13 @@
 # Projects
 𝑫𝒆𝒗𝑶𝒑𝒔 𝑹𝒆𝒂𝒍 𝑾𝒐𝒓𝒍𝒅 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔 𝒇𝒐𝒓 𝑨𝒔𝒑𝒊𝒓𝒊𝒏𝒈 𝑫𝒆𝒗𝑶𝒑𝒔 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒔 [𝑩𝒆𝒈𝒊𝒏𝒏𝒆𝒓 𝒕𝒐 𝑨𝒅𝒗𝒂𝒏𝒄𝒆𝒅]
+
 <div align="center">
+
+<img src="https://github.com/Mahesh-J-123/Mahesh-J-123/raw/main/photo.jpg" 
+     width="130" 
+     height="130"
+     style="border-radius:50%;object-fit:cover;border:3px solid #0A66C2;" 
+     alt="Mahesh J - DevOps & SRE Engineer"/>
 
 # 👋 Mahesh J
 
@@ -87,8 +94,8 @@ Capgemini     │  Cloud Eng → DevOps Engineer  │  Insurance
 
 <div align="center">
 
-![Mahesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Mahesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahesh-J-123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahesh-J-123&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
